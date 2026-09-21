@@ -32,8 +32,8 @@ Durante la Tarea 2, utilicé el navegador de archivos de JupyterLab para localiz
 
 ## Conclusiones
 
-Se logró acceder correctamente a Amazon SageMaker y utilizar JupyterLab, comprendiendo los pasos necesarios para trabajar con una instancia de cuaderno en AWS.
+Se aprendió a examinar y comprender la estructura de un conjunto de datos utilizando Pandas, identificando sus variables, tipos de datos y organización general antes de realizar el análisis.
 
-La actividad permitió comprender la utilidad del machine learning para resolver problemas de clasificación, especialmente como herramienta para analizar datos y apoyar la identificación de anomalías en el ámbito sanitario.
+Se logró utilizar Pandas y Matplotlib para obtener estadísticas descriptivas y visualizar los datos, facilitando la identificación de tendencias, distribuciones y posibles comportamientos relevantes dentro del conjunto de datos.
 
-
+Se aprendio analizar la correlación entre las características del conjunto de datos, permitiendo identificar posibles relaciones entre las variables y determinar qué características pueden aportar información relevante para el desarrollo de un modelo de aprendizaje automático.
